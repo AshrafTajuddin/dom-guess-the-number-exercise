@@ -14,4 +14,5 @@
 **See the images for reference**
 
 ### Result
+* If the player failed to guess the number three attempts, this will be shown up :
 ![Imgur](https://i.imgur.com/SrWoISx.gif)
